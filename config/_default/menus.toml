@@ -1,8 +1,8 @@
 [[docs]]
   name = "Başlangıç"
   weight = 10
-  identifier = "baslangic"
-  url = "/docs/baslangic/"
+  identifier = "introduction"
+  url = "/docs/introduction/"
 
 [[docs]]
   name = "Yardım"
@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/baslangic/what-is-the-algorithm/"
+  url = "/docs/introduction/what-is-the-algorithm/"
   weight = 10
 
 [[main]]
