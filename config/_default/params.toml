@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Veri Yapıları"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Bilgisayar bilimleri aşıkları için veri yapıları ve algoritma rehberi"
+description = "Veri yapıları, verileri düzenlemek ve saklamak için kullanılan yapılardır"
 
 ## Open Graph
 images = ["doks.png"]
@@ -20,10 +20,10 @@ twitterCreator = "@henkverlinde"
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaAuthor = "Abdullah Öztürk"
+schemaAuthorTwitter = "https://twitter.com/AbdullahOztuurk"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/abdullah-ozturk/"
+schemaAuthorGitHub = "https://github.com/AbdullahOztuurkk"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -31,9 +31,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/AbdullahOztuurk"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/AbdullahOztuurkk/Algorithm-And-Data-Structures"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -51,14 +51,14 @@ lqipWidth = "20x"
 
 # Footer
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2021 Abdullah Öztürk"
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/AbdullahOztuurkk/Algorithm-And-Data-Structures\">yıldız</a> atabilirsiniz . Teşekkürler!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/AbdullahOztuurkk/Algorithm-And-Data-Structures"
 editPage = false
 
 [options]
@@ -68,7 +68,7 @@ editPage = false
   flexSearch = true
   darkMode = true
   bootStrapJs = true
-  breadCrumb = false
+  breadCrumb = true
   highLight = true
   kaTex = false
   collapsibleSidebar = false
