@@ -22,8 +22,8 @@ Veri yapısı, verileri depolamak ve düzenlemek için kullanılan bir depolamad
 İhtiyaçlarınıza ve projenize bağlı olarak, projeniz için doğru veri yapısını seçmek çok önemlidir. Örneğin, bellekte sırayla veri saklamak istiyorsanız Array veri yapısını kullanabilirsiniz.
 
 > **Note:** Veri yapısı ve veri türleri biraz farklıdır. Veri yapısı, belirli bir sıraya göre düzenlenmiş veri türlerinin toplanmış halidir.
- 
-![Array Veri Yapısı](../../../assets/images/introduction/array_dsa.jpg)
+
+<img src="../introduction/array_.webp" width=700 height=280px>
 
 <hr>
 &nbsp;
@@ -52,7 +52,7 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
     
   Bir dizide, bellekteki öğeler sürekli bellekte düzenlenir. Dizi içerisindeki tüm elementler aynı tiptir. Dizi içerisinde saklanabilecek öğelerin türü de programlama dili tarafından belirlenir.
 
-![Array Veri Yapısı](../../../assets/images/introduction/array_.webp)
+<img src="../introduction/array_.webp" width=700 height=330px>
 > Her elemanın bir dizinle temsil edildiği bir dizi
 
 **2. Yığın Veri Yapısı**
@@ -61,7 +61,8 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
   Tıpkı son tabağın önce kaldırılacağı bir tabak yığını gibi çalışır.
 
-![Array Veri Yapısı](../../../assets/images/introduction/stack_dsa.webp)
+<img src="../introduction/stack_dsa.webp" width=700 height=680px>
+
 > Bir yığında, işlemler yalnızca bir uçtan gerçekleştirilebilir (burada üstte)
 
 **3. Kuyruk Veri Yapısı**
@@ -70,15 +71,16 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
   Tıpkı sıradaki ilk kişinin bileti önce alacağı bilet gişesindeki bir insan kuyruğu gibi çalışır.
 
-![Queue Veri Yapısı](../../../assets/images/introduction/queue_dsa.webp)
+<img src="../introduction/queue_dsa.webp" width=700 height=380px>
+
 > Kuyrukta ekleme ve silme işlemleri farklı uçlardan gerçekleşir.
 
 **4. Bağlı Liste Veri Yapısı**
 
   Bağlı liste veri yapısında, veri öğeleri bir dizi düğüm aracılığıyla bağlanır. Her bir düğüm, kendine ait bir veriyi ve sıradaki düğümün adresini tutar.
 
+<img src="../introduction/linked-list_dsa.webp" width=700 height=250px>
 
-![Linked List Veri Yapısı](../../../assets/images/introduction/linked-list_dsa.webp)
 > Tek yönlü bağlı liste
 
 &nbsp;
@@ -94,7 +96,7 @@ Doğrusal olmayan veri yapıları ayrıca grafik ve ağaç tabanlı veri yapıla
 **1.Graf Veri Yapısı**
   Grafik veri yapısında her bir düğüm köşe adını alır ve her bir köşe diğer köşelere kenarlar aracılığıyla bağlanır.
 
-<img src="../../../assets/images/introduction/graph_dsa.webp" width=390 height= 400px>
+<img src="../introduction/graph_dsa.webp" width=390 height= 400px>
 
 > Graf Veri Yapısı Örneği
 
@@ -102,7 +104,7 @@ Doğrusal olmayan veri yapıları ayrıca grafik ve ağaç tabanlı veri yapıla
   
   Bir grafiğe benzer şekilde, bir ağaç da bir köşeler ve kenarlar topluluğudur. Ancak ağaç veri yapısında iki köşe arasında yalnızca bir kenar olabilir.
 
-<img src="../../../assets/images/introduction/tree_dsa.webp" width=590 height= 400px>
+<img src="../introduction/tree_dsa.webp" width=590 height= 400px>
 
 > Ağaç Veri Yapısı Örneği
 
