@@ -6,8 +6,9 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/prologue/introduction/" | relURL }}" role="button">Get started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "https://raw.githubusercontent.com/h-enk/doks/master/package.json" }}{{ $data.version }}</a></p>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{"docs/baslangic/introduction/" | relURL }}" role="button">Hadi başlayalım</a>
+      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON
+          "https://raw.githubusercontent.com/h-enk/doks/master/package.json" }}{{ $data.version }}</a></p>
     </div>
   </div>
 </section>
@@ -18,30 +19,31 @@
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <h2 class="h4">Security aware</h2>
-        <p>Get A+ scores on <a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.</p>
+        <h2 class="h4">Stack</h2>
+        <p>Stack doğrusal (linear) bir veri yapısıdır ve adından da anlaşılabileceği üzere verileri yığın halinde saklar
+        </p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Fast by default ⚡️</h2>
-        <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
+        <h2 class="h4">Queue</h2>
+        <p>Queue, verilerin sırayla kullanıldığı ve ilk giren verinin sıranın önünde olduğu için ilk çıktığı bir veri
+          yapıdır. </p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">SEO-ready</h2>
-        <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
+        <h2 class="h4">Linked List</h2>
+        <p>Linked List (Bağlı liste), node/link diye adlandırılan yapılardan oluşur, bu yapılar veriyi ve kendisinden
+          sonraki yapıyı tutar</p>
       </div>
     </div>
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <h2 class="h4">Full text search</h2>
-        <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
+        <h2 class="h4">Ağaç Yapısı</h2>
+        <p>Bilgisayar biliminde, ağaç veri düğümleri ve düğümler arası ilişkileri belirten kenarlardan oluşan, ters bir ağacı andıran veri yapısıdır</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Page layouts</h2>
-        <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Dark mode</h2>
-        <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
+        <h2 class="h4">Graph yapısı</h2>
+        <p>Graf, matematiksel anlamda, düğümlerden
+          ve bu düğümler arasındaki ilişkiyi gösteren
+          kenarlardan oluşan bir kümedir. </p>
       </div>
     </div>
   </div>
@@ -49,7 +51,8 @@
 {{ end }}
 
 {{ define "sidebar-footer" }}
-<section class="section section-sm container-fluid">
+<section class="section section-sm container-fluid"
+  style="display: flex; justify-content: space-between; height: 160px;">
   <div class="row justify-content-center text-center">
     <div class="col-lg-9">
       {{- .Content -}}
