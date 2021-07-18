@@ -13,8 +13,6 @@ weight: 1
 toc: true
 ---
 
-# Algoritma Nedir?
-
 Bu derste, algoritmanın ne olduğunu örnekler ile öğreneceğiz.
 
 Bilgisayar programlama terimlerinde, algoritma belirli bir problemin çözümü için iyi tanımlanmış bir talimat dizisidir. Sizden bir dizi girdi alır ve istenen sonucu verir. Örneğin,
