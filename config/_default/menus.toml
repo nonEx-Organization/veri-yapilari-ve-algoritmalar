@@ -1,18 +1,18 @@
 [[docs]]
-  name = "Prologue"
+  name = "Başlangıç"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "baslangic"
+  url = "/docs/baslangic/"
 
 [[docs]]
-  name = "Help"
+  name = "Yardım"
   weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  identifier = "yardim"
+  url = "/docs/yardim/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/introduction/"
+  url = "/docs/baslangic/what-is-the-algorithm/"
   weight = 10
 
 [[main]]
@@ -34,6 +34,6 @@
   weight = 20
 
 # [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
+#   name = "Gizlilik"
+#   url = "/gizlilik-politikasi"
 #   weight = 10
