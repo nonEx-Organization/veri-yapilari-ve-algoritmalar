@@ -123,7 +123,6 @@ int topla(int N) {
     return N * (N + 1) / 2;
 }
 
-
 ```
 Bu kod yalnızca bir komutta yürütülür ve değeri ne olursa olsun görevi yerine getirir. Gerekirse evrendeki toplam atom sayısından büyük olsun. Sonucu kısa sürede bulacaktır.
 
@@ -206,7 +205,7 @@ Neyse ki, bu sorunu çözmenin yolu [graf veri yapısı](./data-structures-and-t
 
 ## Örnek 3: DNA Problemi
 
-DNA, genetik bilgiyi taşıyan bir moleküldür. Roma karakterleri Adenin(A), Sitozin(C), Timin(T)  ve Guanin(G) ile temsil edilen daha küçük birimlerden oluşurlar.
+DNA, genetik bilgiyi taşıyan bir moleküldür. Roma karakterleri A(Adenin), C(Sitozin), T(Timin)  ve G(Guanin) ile temsil edilen daha küçük birimlerden oluşurlar.
 
 Biyoinformatik alanında çalıştığınızı düşünün. Bir DNA zincirinde belirli bir kalıbın oluşumunu bulma görevi size verildi.
 
