@@ -40,4 +40,3 @@ Herhangi bir geri bildiriminiz varsa, lütfen [mail adresimizden][mail_address] 
 Links
 -->
 [mail_address]: mailto:oabdullahozturk@yandex.com
-[home_page_img]: https://raw.githubusercontent.com/AbdullahOztuurkk/Algorithm-And-Data-Structures/master/assets/images/homepage.png
