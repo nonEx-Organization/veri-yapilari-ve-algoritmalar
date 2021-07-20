@@ -21,7 +21,7 @@ alanında kendini geliştirmek isteyen kişiler içindir.
 
 ## Ekran Görüntüleri
 
-![Ana Sayfa][home_page_img]
+<img src="https://raw.githubusercontent.com/AbdullahOztuurkk/Algorithm-And-Data-Structures/master/assets/images/homepage.png" width=650em>
 
   
 ## Kullanılan Teknolojiler
