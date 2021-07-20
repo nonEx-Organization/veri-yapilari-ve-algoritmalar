@@ -5,10 +5,53 @@
   url = "/docs/introduction/"
 
 [[docs]]
-  name = "Yardım"
+  name = "Veri Yapıları I"
+  weight = 20
+  identifier = "veri-yapilari-1"
+  url = "/docs/veri-yapilari-1/"
+
+[[docs]]
+  name = "Veri Yapıları II"
+  weight = 30
+  identifier = "veri-yapilari-2"
+  url = "/docs/veri-yapilari-2/"
+
+[[docs]]
+  name = "Ağaç Bazlı Veri Yapıları I"
+  weight = 40
+  identifier = "agac-bazli-veri-yapilari-1"
+  url = "/docs/agac-bazli-veri-yapilari-1/"
+
+[[docs]]
+  name = "Graf Bazlı Veri Yapıları"
+  weight = 50
+  identifier = "graph-bazli-veri-yapilari"
+  url = "/docs/graph-bazli-veri-yapilari/"
+
+[[docs]]
+  name = "Sıralama ve Arama Algoritmaları"
   weight = 60
-  identifier = "yardim"
-  url = "/docs/yardim/"
+  identifier = "siralama-arama-algoritmalari"
+  url = "/docs/siralama-arama-algoritmalari/"
+
+[[docs]]
+  name = "Aç Gözlü Algoritma"
+  weight = 70
+  identifier = "ac-gozlu-algoritma"
+  url = "/docs/ac-gozlu-algoritma/"
+
+[[docs]]
+  name = "Dinamik Programlama"
+  weight = 80
+  identifier = "dinamik-programlama"
+  url = "/docs/dinamik-programlama/"
+
+[[docs]]
+  name = "Diğer Algoritmalar"
+  weight = 90
+  identifier = "diger-algoritmalar"
+  url = "/docs/diger-algoritmalar/"
+
 
 [[main]]
   name = "Docs"
