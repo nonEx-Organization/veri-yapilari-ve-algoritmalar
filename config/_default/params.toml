@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Veri Yapıları"
-titleSeparator = "-"
-titleAddition = "Bilgisayar bilimleri aşıkları için veri yapıları ve algoritma rehberi"
-description = "Veri yapıları, verileri düzenlemek ve saklamak için kullanılan yapılardır"
+title = "Veri Yapıları Rehberi"
+titleSeparator = ""
+titleAddition = ""
+description = ""
 
 ## Open Graph
 images = ["doks.png"]
@@ -13,8 +13,8 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@AbdullahOztuurk"
+twitterCreator = "@AbdullahOztuurk"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -59,7 +59,7 @@ alertText = "Beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/Ab
 
 # Edit Page
 docsRepo = "https://github.com/AbdullahOztuurkk/Algorithm-And-Data-Structures"
-editPage = false
+editPage = true
 
 [options]
   lazySizes = true
