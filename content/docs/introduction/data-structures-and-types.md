@@ -52,7 +52,7 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
     
   Bir dizide, bellekteki öğeler sürekli bellekte düzenlenir. Dizi içerisindeki tüm elementler aynı tiptir. Dizi içerisinde saklanabilecek öğelerin türü de programlama dili tarafından belirlenir.
 
-<img src="../introduction/array_.webp" width=700 height=330px>
+<img src="../assets/array_.webp" width=700 height=330px>
 > Her elemanın bir dizinle temsil edildiği bir dizi
 
 **2. Yığın Veri Yapısı**
@@ -61,7 +61,7 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
   Tıpkı son tabağın önce kaldırılacağı bir tabak yığını gibi çalışır.
 
-<img src="../introduction/stack_dsa.webp" width=700 height=680px>
+<img src="../assets/stack_dsa.webp" width=700 height=680px>
 
 > Bir yığında, işlemler yalnızca bir uçtan gerçekleştirilebilir (burada üstte)
 
@@ -71,7 +71,7 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
   Tıpkı sıradaki ilk kişinin bileti önce alacağı bilet gişesindeki bir insan kuyruğu gibi çalışır.
 
-<img src="../introduction/queue_dsa.webp" width=700 height=380px>
+<img src="../assets/queue_dsa.webp" width=700 height=380px>
 
 > Kuyrukta ekleme ve silme işlemleri farklı uçlardan gerçekleşir.
 
@@ -79,7 +79,7 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
   Bağlı liste veri yapısında, veri öğeleri bir dizi düğüm aracılığıyla bağlanır. Her bir düğüm, kendine ait bir veriyi ve sıradaki düğümün adresini tutar.
 
-<img src="../introduction/linked-list_dsa.webp" width=700 height=250px>
+<img src="../assets/linked-list_dsa.webp" width=700 height=250px>
 
 > Tek yönlü bağlı liste
 
@@ -96,7 +96,7 @@ Doğrusal olmayan veri yapıları ayrıca grafik ve ağaç tabanlı veri yapıla
 **1.Graf Veri Yapısı**
   Grafik veri yapısında her bir düğüm köşe adını alır ve her bir köşe diğer köşelere kenarlar aracılığıyla bağlanır.
 
-<img src="../introduction/graph_dsa.webp" width=390 height= 400px>
+<img src="../assets/graph_dsa.webp" width=390 height= 400px>
 
 > Graf Veri Yapısı Örneği
 
@@ -104,7 +104,7 @@ Doğrusal olmayan veri yapıları ayrıca grafik ve ağaç tabanlı veri yapıla
   
   Bir grafiğe benzer şekilde, bir ağaç da bir köşeler ve kenarlar topluluğudur. Ancak ağaç veri yapısında iki köşe arasında yalnızca bir kenar olabilir.
 
-<img src="../introduction/tree_dsa.webp" width=590 height= 400px>
+<img src="../assets/tree_dsa.webp" width=590 height= 400px>
 
 > Ağaç Veri Yapısı Örneği
 
