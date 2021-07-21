@@ -23,7 +23,7 @@ Veri yapısı, verileri depolamak ve düzenlemek için kullanılan bir depolamad
 
 > **Note:** Veri yapısı ve veri türleri biraz farklıdır. Veri yapısı, belirli bir sıraya göre düzenlenmiş veri türlerinin toplanmış halidir.
 
-<img src="../introduction/array_.webp" width=700 height=280px>
+<img src="../assets/array_.webp" width=700 height=280px>
 
 <hr>
 &nbsp;
