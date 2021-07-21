@@ -8,49 +8,55 @@
   name = "Veri Yapıları I"
   weight = 20
   identifier = "veri-yapilari-1"
-  url = "/docs/veri-yapilari-1/"
+  url = "/docs/data-structures-1/"
 
 [[docs]]
   name = "Veri Yapıları II"
   weight = 30
   identifier = "veri-yapilari-2"
-  url = "/docs/veri-yapilari-2/"
+  url = "/docs/data-structures-2/"
 
 [[docs]]
   name = "Ağaç Bazlı Veri Yapıları I"
   weight = 40
   identifier = "agac-bazli-veri-yapilari-1"
-  url = "/docs/agac-bazli-veri-yapilari-1/"
+  url = "/docs/tree-based-dsa-1/"
+
+[[docs]]
+  name = "Ağaç Bazlı Veri Yapıları II"
+  weight = 45
+  identifier = "agac-bazli-veri-yapilari-2"
+  url = "/docs/tree-based-dsa-2/"
 
 [[docs]]
   name = "Graf Bazlı Veri Yapıları"
   weight = 50
   identifier = "graph-bazli-veri-yapilari"
-  url = "/docs/graph-bazli-veri-yapilari/"
+  url = "/docs/graph-based-dsa/"
 
 [[docs]]
   name = "Sıralama ve Arama Algoritmaları"
   weight = 60
   identifier = "siralama-arama-algoritmalari"
-  url = "/docs/siralama-arama-algoritmalari/"
+  url = "/docs/sorting-search-algorithm/"
 
 [[docs]]
-  name = "Aç Gözlü Algoritma"
+  name = "Aç Gözlü Algoritmalar"
   weight = 70
-  identifier = "ac-gozlu-algoritma"
-  url = "/docs/ac-gozlu-algoritma/"
+  identifier = "ac-gozlu-algoritmalar"
+  url = "/docs/greedy-algorithms/"
 
 [[docs]]
   name = "Dinamik Programlama"
   weight = 80
   identifier = "dinamik-programlama"
-  url = "/docs/dinamik-programlama/"
+  url = "/docs/dynamic-programming/"
 
 [[docs]]
   name = "Diğer Algoritmalar"
   weight = 90
   identifier = "diger-algoritmalar"
-  url = "/docs/diger-algoritmalar/"
+  url = "/docs/other-algorithms/"
 
 
 [[main]]
