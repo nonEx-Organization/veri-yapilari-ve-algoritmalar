@@ -71,4 +71,4 @@ editPage = true
   breadCrumb = false
   highLight = true
   kaTex = false
-  collapsibleSidebar = false
+  collapsibleSidebar = true
