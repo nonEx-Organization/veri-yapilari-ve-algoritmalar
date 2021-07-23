@@ -35,7 +35,7 @@
   url = "/docs/graph-based-dsa/"
 
 [[docs]]
-  name = "Sıralama ve Arama Algoritmaları"
+  name = "Sıralama Arama Algoritmaları"
   weight = 60
   identifier = "sorting-search-algorithm"
   url = "/docs/sorting-search-algorithm/"
