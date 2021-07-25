@@ -76,7 +76,7 @@
   post = "v0.1.0"
   weight = 20
 
-# [[footer]]
-#   name = "Gizlilik"
-#   url = "/gizlilik-politikasi"
-#   weight = 10
+ [[footer]]
+   name = "Katkıda Bulunun 🥳"
+   url = "/docs/help/contribute"
+   weight = 10
