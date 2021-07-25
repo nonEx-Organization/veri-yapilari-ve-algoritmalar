@@ -55,7 +55,8 @@ Burada, böl ve yönet yaklaşımını kullanarak bir diziyi sıralayacağız.(*
   <img src="../assets/divide-and-conquer-array.webp" height=100>
 </p>
 
-> Birleştirme sırası için verilen dizi
+{{< alert icon="➡️" text="Birleştirme sırası için verilen dizi" />}}
+
 
 2. Diziyi iki yarıma **bölün**.
 
@@ -63,7 +64,7 @@ Burada, böl ve yönet yaklaşımını kullanarak bir diziyi sıralayacağız.(*
   <img src="../assets/divide-and-conquer-array-divided.webp" height=200>
 </p>
 
-> İki alt parçaya bölün
+{{< alert icon="➡️" text="İki alt parçaya bölün" />}}
 
 3. Tek elaman kalana dek diziyi özyinelemeli şekilde alt parçalara bölmeye devam edin.
 
@@ -71,7 +72,7 @@ Burada, böl ve yönet yaklaşımını kullanarak bir diziyi sıralayacağız.(*
   <img src="../assets/divide-and-conquer-array-divided-recursive.webp" height=300>
 </p>
 
-> Diziyi daha küçük parçalara bölün
+{{< alert icon="➡️" text="Diziyi daha küçük parçalara bölün" />}}
 
 4. Şimdi, sıralanmış şekilde tüm elemanları birleştirin. Burada, **fethet** ve **birleştir** adımları sırayla gerçekleşir.
 
@@ -79,7 +80,7 @@ Burada, böl ve yönet yaklaşımını kullanarak bir diziyi sıralayacağız.(*
   <img src="../assets/divide-and-conquer-combine.webp" height=300>
 </p>
 
-> küçük parçaları birleştirin
+{{< alert icon="➡️" text="Küçük parçaları birleştirin" />}}
 
 &nbsp;
 <hr>

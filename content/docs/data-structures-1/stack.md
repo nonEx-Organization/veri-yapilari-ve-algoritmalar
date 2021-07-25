@@ -45,6 +45,8 @@ Programlama terimlerine göre, yığının üstüne bir item koymak **push**, bi
   <img src="../assets/stack-push-pop.png" height= 360px>
 </p>
 
+{{< alert icon="➡️" text="Yığın push ve pop işlemleri" />}}
+
 Yukarıdaki resimde, item 3 son eklemesine rağmen ilk o çıkartılmıştır. **LIFO(Last In First Out) prensibi** tam olarak bu şekilde çalışır.
 
 Bir yığını C, C++, Java, Python veya C# gibi herhangi bir programlama dilinde uygulayabiliriz, ancak belirtim hemen hemen aynıdır.
@@ -87,6 +89,8 @@ Yığın üzerinde farklı aksiyonlar gerçekleştirmemize izin veren bazı işl
 <p align=center>
   <img src="../assets/stack-operations.png" height= 360px>
 </p>
+
+{{< alert icon="➡️" text="Yığın veri yapısının çalışması" />}}
 
 &nbsp;
 <hr>

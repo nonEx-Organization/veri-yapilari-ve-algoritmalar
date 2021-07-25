@@ -21,8 +21,9 @@ Kuyruk, **FIFO(First In First Out)** kuralına uyar. Yani ilk giren eleman ilk �
 
 <p align=center>
   <img src="../assets/queue.png"   width= 620px>
-  {{< alert text="Kuyruk FIFO Temsili" />}}
 </p>
+
+{{< alert icon="➡️" text="Kuyruk FIFO Temsili" />}}
 
 Yukarıdaki resimde 1, 2'den önce kuyrukta tutulduğu için **FIFO** kuralından dolayı kuyruktan da ilk o çıkarılacaktır. 
 
@@ -92,9 +93,9 @@ Kuyruk, aşağıdaki işlemlere izin veren bir veri yapısıdır:
 
 <p align=center>
   <img src="../assets/queue-operations.png" width= 600px>
-  {{< alert text="Enqueue ve Dequeue işlemleri" />}}
 </p>
 
+{{< alert icon="➡️" text="Enqueue ve Dequeue işlemleri" />}}
  
 &nbsp;
 <hr>
@@ -206,8 +207,9 @@ Aşağıdaki resimde göreceğiniz gibi, biraz kuyruğa ekleme ve kuyruktan çı
 
 <p align=center>
   <img src="../assets/queue-limitations.png" width= 600px/>
-  {{< alert text="Kuyruk sınırlamaları" />}}
 </p>
+
+{{< alert icon="➡️" text="Kuyruk sınırlamaları" />}}
 
 Ve 0 ve 1 indekslerini yalnızca kuyruk sıfırlandığında ekleyebiliriz.
 
@@ -253,7 +255,7 @@ Bir dizi kullanan bir kuyruğa alma ve kuyruğa alma işlemlerinin karmaşıklı
 LINKS
 -->
 
-[circular-queue]: ./circular-queue
-[queue-types]:    ./types-of-queue
-[deque]:          ./deque
-[priority-queue]: ./priority-queue
+[circular-queue]: ../circular-queue
+[queue-types]:    ../types-of-queue
+[deque]:          ../deque
+[priority-queue]: ../priority-queue

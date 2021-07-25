@@ -26,12 +26,12 @@ Gayri resmi olarak, bir algoritma, bir sorunu çözmek için atılan adımlardan
 **Problem: n sayısının faktöriyelini hesaplama**
 
 ```bash
-    faktoriyel=1 degeri ile başlat
-    1den n sayısına kadar her v degeri icin:
-        faktoriyel ile v çarp
-    faktoriyel n sayısının faktöriyel hesabını içerir
+faktoriyel=1 degeri ile başlat
+1den n sayısına kadar her v degeri icin:
+    faktoriyel ile v çarp
+faktoriyel n sayısının faktöriyel hesabını içerir
 ```
-> Bu algoritma türkçe yazılmıştır. Eğer bir programlama dili ile yazılsaydı, bunu kod olarak belirtirdik. C++'da faktöriyel hesabını yapan kod aşağıda.
+{{< alert icon="➡️" text="Bu algoritma türkçe yazılmıştır. Eğer bir programlama dili ile yazılsaydı, bunu kod olarak belirtirdik. C++'da faktöriyel hesabını yapan kod aşağıda." />}}
 
 ```cpp
 int faktoriyel(int n) {
@@ -77,8 +77,7 @@ int findSum() {
     return sum;
 }
 ```
-
-> Alice ve Bob, neredeyse hiç vakit kaybetmeden kendilerine ait bir şey inşa edebilecekleri için kendilerini çok mutlu hissediyorlar. Gelin, onların çalışma alanlarına gizlice girelim ve konuşmalarını dinleyelim.
+{{< alert icon="➡️" text="Alice ve Bob, neredeyse hiç vakit kaybetmeden kendilerine ait bir şey inşa edebilecekleri için kendilerini çok mutlu hissediyorlar. Gelin, onların çalışma alanlarına gizlice girelim ve konuşmalarını dinleyelim." />}}
 
 <pre>
 <b>Alice:</b> Hadi kodu çalıştıralım ve toplamı bulalım.
@@ -128,7 +127,9 @@ Bu kod yalnızca bir komutta yürütülür ve değeri ne olursa olsun görevi ye
 
 Bu durumda problemi çözmek için geçen süre 1/y'dir (10 nanosaniyedir). Bu arada, bir hidrojen bombasının füzyon reaksiyonu 40-50 ns sürer, bu da kodunuzu çalıştırdığınız anda birisi bilgisayarınıza hidrojen bombası atsa bile programınızın başarıyla tamamlanacağı anlamına gelir.
 
-> **Note:** Bilgisayarlar çarpma ve bölme için bir kaç komut işler. Basitlik olması açısından sadece 1 tanesini söyledim.
+{{< alert icon="➡️" >}}
+**Note:** Bilgisayarlar çarpma ve bölme için bir kaç komut işler. Basitlik olması açısından sadece 1 tanesini söyledim.
+{{< /alert >}}
 
 &nbsp;
 <hr>
@@ -241,4 +242,4 @@ Algoritmaları iyi bilmiyorsanız, şu anda yazdığınız kodu optimize edip ed
 
 Ancak, bir sistemi ölçeklenebilir hale getirmenin tek yolunun bu olmadığını unutmamak önemlidir. Örneğin, dağıtılmış bilgi işlem olarak bilinen bir teknik, bir programın bağımsız bölümlerinin birden çok makinede birlikte çalışmasına izin vererek onu daha da ölçeklenebilir hale getirir. 
 
-> Bknz. Distributed Systems
+{{< alert icon="➡️" text="Bknz. Distributed Systems" />}}

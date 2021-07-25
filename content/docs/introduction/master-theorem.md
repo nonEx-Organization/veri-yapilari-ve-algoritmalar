@@ -33,9 +33,9 @@ f(n) = Problemi bölmenin maliyeti ve
       rekürsif problemin dışında yapılan işin maliyeti
 ```
 
-Asimptotik olarak pozitif bir fonksiyon, yeterince büyük bir `n` değeri için `f(n) > 0`'a sahip olduğu anlamına gelir.`
+Asimptotik olarak pozitif bir fonksiyon, yeterince büyük bir `n` değeri için `f(n) > 0`'a sahip olduğu anlamına gelir.
 
-> Master teoremi, rekürsif ilişkilerin zaman karmaşıklığının basit ve hızlı bir şekilde hesaplanmasında kullanılır.
+{{< alert icon="➡️" text="Master teoremi, rekürsif ilişkilerin zaman karmaşıklığının basit ve hızlı bir şekilde hesaplanmasında kullanılır." />}}
 
 &nbsp;
 <hr>

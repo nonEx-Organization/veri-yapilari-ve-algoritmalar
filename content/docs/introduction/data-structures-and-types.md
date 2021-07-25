@@ -21,7 +21,9 @@ Veri yapısı, verileri depolamak ve düzenlemek için kullanılan bir depolamad
 
 İhtiyaçlarınıza ve projenize bağlı olarak, projeniz için doğru veri yapısını seçmek çok önemlidir. Örneğin, bellekte sırayla veri saklamak istiyorsanız Array veri yapısını kullanabilirsiniz.
 
-> **Note:** Veri yapısı ve veri türleri biraz farklıdır. Veri yapısı, belirli bir sıraya göre düzenlenmiş veri türlerinin toplanmış halidir.
+{{< alert icon="➡️" >}}
+**Note:** Veri yapısı ve veri türleri biraz farklıdır. Veri yapısı, belirli bir sıraya göre düzenlenmiş veri türlerinin toplanmış halidir.
+{{< /alert >}}
 
 <img src="../assets/array_.webp" width=700 height=280px>
 
@@ -53,7 +55,8 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
   Bir dizide, bellekteki öğeler sürekli bellekte düzenlenir. Dizi içerisindeki tüm elementler aynı tiptir. Dizi içerisinde saklanabilecek öğelerin türü de programlama dili tarafından belirlenir.
 
 <img src="../assets/array_.webp" width=700 height=330px>
-> Her elemanın bir dizinle temsil edildiği bir dizi
+
+{{< alert icon="➡️" text="Her elemanın bir dizinle temsil edildiği bir dizi" />}}
 
 **2. Yığın Veri Yapısı**
     
@@ -63,7 +66,8 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
 <img src="../assets/stack_dsa.webp" width=700 height=680px>
 
-> Bir yığında, işlemler yalnızca bir uçtan gerçekleştirilebilir (burada üstte)
+{{< alert icon="➡️" text="Bir yığında, işlemler yalnızca bir uçtan gerçekleştirilebilir (burada üstte)" />}}
+
 
 **3. Kuyruk Veri Yapısı**
 
@@ -73,7 +77,7 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
 <img src="../assets/queue_dsa.webp" width=700 height=380px>
 
-> Kuyrukta ekleme ve silme işlemleri farklı uçlardan gerçekleşir.
+{{< alert icon="➡️" text="Kuyrukta ekleme ve silme işlemleri farklı uçlardan gerçekleşir." />}}
 
 **4. Bağlı Liste Veri Yapısı**
 
@@ -81,7 +85,8 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
 <img src="../assets/linked-list_dsa.webp" width=700 height=250px>
 
-> Tek yönlü bağlı liste
+{{< alert icon="➡️" text="Tek yönlü bağlı liste" />}}
+
 
 &nbsp;
 <hr>
@@ -98,7 +103,7 @@ Doğrusal olmayan veri yapıları ayrıca grafik ve ağaç tabanlı veri yapıla
 
 <img src="../assets/graph_dsa.webp" width=390 height= 400px>
 
-> Graf Veri Yapısı Örneği
+{{< alert icon="➡️" text="Graf veri yapısı örneği" />}}
 
 **2.Ağaç Veri Yapısı**
   
@@ -106,7 +111,7 @@ Doğrusal olmayan veri yapıları ayrıca grafik ve ağaç tabanlı veri yapıla
 
 <img src="../assets/tree_dsa.webp" width=590 height= 400px>
 
-> Ağaç Veri Yapısı Örneği
+{{< alert icon="➡️" text="Ağaç veri yapısı örneği" />}}
 
 &nbsp;
 <hr>

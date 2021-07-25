@@ -55,7 +55,8 @@ Big-O notasyonu, bir algoritmanın çalışma süresinin üst sınırını temsi
 
 <img src="../assets/big-o-notation.webp" width=700 height=680px>
 
-> Big-O, bir fonksiyonun üst sınırını verir
+{{< alert icon="➡️" text="Big-O, bir fonksiyonun üst sınırını verir" />}}
+
 
 ```bash
 O(g(n)) = { f(n): c ve n0 pozitif sabitleri var
@@ -75,7 +76,7 @@ Omega notasyonu, bir algoritmanın çalışma süresinin alt sınırını temsil
 
 <img src="../assets/omega-notation.webp" width=700 height=680px>
 
-> Omega bir fonksiyonun alt sınırını verir
+{{< alert icon="➡️" text="Omega, bir fonksiyonun alt sınırını verir" />}}
 
 ```bash
 Ω(g(n)) = { f(n): c ve n0 pozitif sabitleri var
@@ -95,7 +96,7 @@ Teta notasyonu, fonksiyonu yukarıdan ve aşağıdan çevreler. Bir algoritmanı
 
 <img src="../assets/theta-notation.webp" width=700 height=680px>
 
-> Teta, fonksiyonu sabit faktörler içinde sınırlar
+{{< alert icon="➡️" text="Teta, fonksiyonu sabit faktörler içinde sınırlar" />}}
 
 ```bash
 Θ(g(n)) = { f(n): c ve n0 pozitif sabitleri var
