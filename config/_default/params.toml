@@ -13,17 +13,17 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@AbdullahOztuurk"
-twitterCreator = "@AbdullahOztuurk"
+twitterSite = ""
+twitterCreator = ""
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
-schemaAuthor = "Abdullah Öztürk"
-schemaAuthorTwitter = "https://twitter.com/AbdullahOztuurk"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/abdullah-ozturk/"
-schemaAuthorGitHub = "https://github.com/AbdullahOztuurkk"
+schemaAuthor = ""
+schemaAuthorTwitter = ""
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = ""
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -31,9 +31,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/AbdullahOztuurk"
+schemaTwitter = ""
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/AbdullahOztuurkk/Algorithm-And-Data-Structures"
+schemaGitHub = "https://github.com/nonEx-Organization/veri-yapilari-ve-algoritmalar"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -51,14 +51,14 @@ lqipWidth = "20x"
 
 # Footer
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2021 Abdullah Öztürk"
+copyRight = "Copyright (c) 2021 <a href=\"https://github.com/nonEx-Organization/\">NonEx</a>"
 
 # Alert
 alert = false
-alertText = "Beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/AbdullahOztuurkk/Algorithm-And-Data-Structures\">yıldız</a> atabilirsiniz . Teşekkürler!</a>"
+alertText = "Beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/nonEx-Organization/veri-yapilari-ve-algoritmalar\">yıldız</a> atabilirsiniz . Teşekkürler!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/AbdullahOztuurkk/Algorithm-And-Data-Structures"
+docsRepo = "https://github.com/nonEx-Organization/veri-yapilari-ve-algoritmalar"
 editPage = true
 
 [options]

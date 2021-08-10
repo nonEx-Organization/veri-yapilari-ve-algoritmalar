@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdullahOztuurkk/Algorithm-And-Data-Structures/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/AbdullahOztuurkk/Algorithm-And-Data-Structures?style=flat-square" alt="GitHub">
+  <a href="https://github.com/nonEx-Organization/veri-yapilari-ve-algoritmalar/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/nonEx-Organization/veri-yapilari-ve-algoritmalar?style=flat-square" alt="GitHub">
   </a>
 </p>
 
