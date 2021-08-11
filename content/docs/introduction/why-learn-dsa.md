@@ -128,7 +128,7 @@ Bu kod yalnızca bir komutta yürütülür ve değeri ne olursa olsun görevi ye
 Bu durumda problemi çözmek için geçen süre 1/y'dir (10 nanosaniyedir). Bu arada, bir hidrojen bombasının füzyon reaksiyonu 40-50 ns sürer, bu da kodunuzu çalıştırdığınız anda birisi bilgisayarınıza hidrojen bombası atsa bile programınızın başarıyla tamamlanacağı anlamına gelir.
 
 {{< alert icon="➡️" >}}
-**Note:** Bilgisayarlar çarpma ve bölme için bir kaç komut işler. Basitlik olması açısından sadece 1 tanesini söyledim.
+**Not:** Bilgisayarlar çarpma ve bölme için bir kaç komut işler. Basitlik olması açısından sadece 1 tanesini söyledim.
 {{< /alert >}}
 
 &nbsp;

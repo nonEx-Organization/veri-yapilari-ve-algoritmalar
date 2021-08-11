@@ -22,11 +22,12 @@ Veri yapısı, verileri depolamak ve düzenlemek için kullanılan bir depolamad
 İhtiyaçlarınıza ve projenize bağlı olarak, projeniz için doğru veri yapısını seçmek çok önemlidir. Örneğin, bellekte sırayla veri saklamak istiyorsanız Array veri yapısını kullanabilirsiniz.
 
 {{< alert icon="➡️" >}}
-**Note:** Veri yapısı ve veri türleri biraz farklıdır. Veri yapısı, belirli bir sıraya göre düzenlenmiş veri türlerinin toplanmış halidir.
+**Not:** Veri yapısı ve veri türleri biraz farklıdır. Veri yapısı, belirli bir sıraya göre düzenlenmiş veri türlerinin toplanmış halidir.
 {{< /alert >}}
 
 <img src="../assets/array_.webp" width=700 height=280px>
 
+&nbsp;
 <hr>
 &nbsp;
 
@@ -83,7 +84,7 @@ Ancak, programın karışıklık düzeyi arttıkça, doğrusal veri yapıları o
 
   Bağlı liste veri yapısında, veri öğeleri bir dizi düğüm aracılığıyla bağlanır. Her bir düğüm, kendine ait bir veriyi ve sıradaki düğümün adresini tutar.
 
-<img src="../assets/linked-list_dsa.webp" width=700 height=250px>
+<img src="../assets/linked-list_dsa.webp" width=700 height=150px>
 
 {{< alert icon="➡️" text="Tek yönlü bağlı liste" />}}
 
@@ -101,16 +102,18 @@ Doğrusal olmayan veri yapıları ayrıca grafik ve ağaç tabanlı veri yapıla
 **1.Graf Veri Yapısı**
   Grafik veri yapısında her bir düğüm köşe adını alır ve her bir köşe diğer köşelere kenarlar aracılığıyla bağlanır.
 
-<img src="../assets/graph_dsa.webp" width=390 height= 400px>
-
+<p align="center">
+  <img src="../assets/graph_dsa.webp" width=390 height= 400px>
+</p>
 {{< alert icon="➡️" text="Graf veri yapısı örneği" />}}
 
 **2.Ağaç Veri Yapısı**
   
   Bir grafiğe benzer şekilde, bir ağaç da bir köşeler ve kenarlar topluluğudur. Ancak ağaç veri yapısında iki köşe arasında yalnızca bir kenar olabilir.
 
-<img src="../assets/tree_dsa.webp" width=590 height= 400px>
-
+<p align="center">
+  <img src="../assets/tree_dsa.webp" width=590 height= 430px>
+</p>
 {{< alert icon="➡️" text="Ağaç veri yapısı örneği" />}}
 
 &nbsp;

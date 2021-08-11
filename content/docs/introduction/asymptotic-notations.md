@@ -53,7 +53,9 @@ Ana 3 tane asimptotik notasyon bulunmaktadır:
 
 Big-O notasyonu, bir algoritmanın çalışma süresinin üst sınırını temsil eder. Bu bize bir algoritmanın en kötü durum karmaşıklığını verir.
 
-<img src="../assets/big-o-notation.webp" width=700 height=680px>
+<p align="center">
+  <img src="../assets/big-o-notation.webp" width=700 height=680px>
+</p>
 
 {{< alert icon="➡️" text="Big-O, bir fonksiyonun üst sınırını verir" />}}
 
@@ -74,8 +76,9 @@ Herhangi bir `n` değeri için, bir algoritmanın çalışma süresi `O(g(n))` t
 
 Omega notasyonu, bir algoritmanın çalışma süresinin alt sınırını temsil eder. Böylece, bir algoritmanın en iyi durum(**best case**) karmaşıklığını sağlar.
 
-<img src="../assets/omega-notation.webp" width=700 height=680px>
-
+<p align="center">
+  <img src="../assets/omega-notation.webp" width=700 height=680px>
+</p>
 {{< alert icon="➡️" text="Omega, bir fonksiyonun alt sınırını verir" />}}
 
 ```bash
@@ -94,7 +97,9 @@ For any value of `n`, the minimum time required by the algorithm is given by `Om
 
 Teta notasyonu, fonksiyonu yukarıdan ve aşağıdan çevreler. Bir algoritmanın çalışma süresinin üst ve alt sınırını temsil ettiğinden, bir algoritmanın ortalama durum karmaşıklığını analiz etmek için kullanılır.
 
-<img src="../assets/theta-notation.webp" width=700 height=680px>
+<p align="center">
+  <img src="../assets/theta-notation.webp" width=700 height=680px>
+</p>
 
 {{< alert icon="➡️" text="Teta, fonksiyonu sabit faktörler içinde sınırlar" />}}
 

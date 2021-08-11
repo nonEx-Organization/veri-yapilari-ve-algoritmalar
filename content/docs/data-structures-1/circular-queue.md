@@ -29,7 +29,7 @@ Dairesel Kuyruk, normal kuyruktaki büyük sınırlamanın önüne geçer. Norma
   <img src="../assets/why-circular-queue.png" width= 320px>
 </p>
 
-{{< alert icon="➡️" text="Dairesel Kuyruk Temsili" />}}
+{{< alert icon="➡️" text="Normal Kuyruğun Sınırlandırılması" />}}
 
 Buradaki 0. ve 1. indeksler ancak kuyruk sıfırlandıktan sonra(tüm elemanlar silindikten sonra) kullanılabilir olacaklar. Bu durum da kuyruğun asıl boyutunu azaltır.
 

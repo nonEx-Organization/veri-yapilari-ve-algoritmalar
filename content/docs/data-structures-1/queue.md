@@ -92,7 +92,7 @@ Kuyruk, aşağıdaki işlemlere izin veren bir veri yapısıdır:
 &nbsp;
 
 <p align=center>
-  <img src="../assets/queue-operations.png" width= 600px>
+  <img src="../assets/queue-operations.png" width= 400px>
 </p>
 
 {{< alert icon="➡️" text="Enqueue ve Dequeue işlemleri" />}}
@@ -206,7 +206,7 @@ public class Queue
 Aşağıdaki resimde göreceğiniz gibi, biraz kuyruğa ekleme ve kuyruktan çıkarma işleminden sonra, kuyruğun boyutu azaltıldı.
 
 <p align=center>
-  <img src="../assets/queue-limitations.png" width= 600px/>
+  <img src="../assets/queue-limitations.png" width= 400px/>
 </p>
 
 {{< alert icon="➡️" text="Kuyruk sınırlamaları" />}}

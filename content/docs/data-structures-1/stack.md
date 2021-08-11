@@ -21,7 +21,7 @@ Bu demektir ki yığından çıkarılacak ilk eleman, eklenen son elemandır.
 Yığını üst üste birikmiş tabak yığını olarak düşünebilirsiniz.
 
 <p align=center>
-  <img src="../assets/stack-pile-of-plates.png"   height= 360px>
+  <img src="../assets/stack-pile-of-plates.png"   height= 320px>
 </p>
 
 
